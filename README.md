@@ -1,4 +1,4 @@
 # PRACTICE
 First repo for practice
 <br>
-Author - Ayush Ambekar
+Author - Ayush Patil
