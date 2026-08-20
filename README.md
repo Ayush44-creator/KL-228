@@ -1,4 +1,4 @@
 # PRACTICE
-First repo for practice
+Repo for learning
 <br>
 Author - Ayush Ambekar
